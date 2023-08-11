@@ -2,20 +2,13 @@
 <article style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <p align="center"><img width="300" src="https://user-images.githubusercontent.com/25022954/209616423-9ab056be-5d62-4eeb-b91d-3b20f64cfcf8.svg" /></p>
     <h1 style="width: 100%; text-align: center;"></h1>
-
-[//]: # (    <p align="center">)
-
-[//]: # (        简体中文  | <a href="./README.md" >English</a>)
-
-[//]: # (    </p>)
 </article>
 </div>
 
 
 # 图文数据集下载脚本
-> metadata 下载地址：https://opendatalab.com/***
-> 
-> 更多数据集下载请到：https://opendatalab.com/  （OpenDataLab 是有影响力的数据开源开放平台，公开数据集触手可及。）
+
+> 数据集下载请到：https://opendatalab.com/  （OpenDataLab 是有影响力的数据开源开放平台，公开数据集触手可及。）
 ---
 ### 注意事项
 >* 请务必使用上述提到的metadata下载地址 然后使用此脚本下载
